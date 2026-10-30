@@ -1,0 +1,11 @@
+{
+  "path": "ar-e",
+  "code": "AR-E",
+  "name": "Entre Ríos",
+  "level": "province",
+  "parent": "ar",
+  "repo": "https://github.com/lexifina/argentina-entre-rios-law",
+  "build": "built: constitution, codes and laws (1 norms, 1 versions) from https://www.senadoer.gob.ar/",
+  "language": "es",
+  "sources": 1
+}

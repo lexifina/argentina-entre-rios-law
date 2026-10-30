@@ -1,0 +1,19 @@
+{
+ "country": "AR-E",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Constitución",
+   "title": "Constitución de la Provincia de Entre Ríos",
+   "url": "https://www.senadoer.gob.ar/descargas/524",
+   "versions": [
+    {
+     "from": "2008-11-01",
+     "units": 298,
+     "source_url": "https://www.senadoer.gob.ar/descargas/524",
+     "sha256": "b0e255c1d03f86c6b63ac5b85898a67387d1275775f813847a561385dd673909"
+    }
+   ]
+  }
+ ]
+}
