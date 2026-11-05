@@ -5,7 +5,7 @@
   "level": "province",
   "parent": "ar",
   "repo": "https://github.com/lexifina/argentina-entre-rios-law",
-  "build": "built: constitution, codes and laws (1 norms, 1 versions) from https://www.senadoer.gob.ar/",
+  "build": "built: 1 constitution as enacted and 57 original gazette law baselines (58 norms, 58 versions); breadth and current consolidation incomplete",
   "language": "es",
   "sources": 1
 }
